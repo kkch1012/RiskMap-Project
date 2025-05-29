@@ -6,8 +6,8 @@
 - Pandas 2.x
 - Scikit-learn 1.x
 - Matplotlib / Seaborn
-- Jupyter Notebook / VSCode / Spyder
-- OS: Windows 10 / Raspberry Pi (병합 및 예측 자동화용)
+- Jupyter Notebook
+- OS: Windows 10
 
 ## 데이터 설명
 
