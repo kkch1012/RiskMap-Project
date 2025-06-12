@@ -2,12 +2,19 @@
 서울시 교통사고 데이터를 기반으로 기상, 인구, 교통 데이터를 병합하여 사고 위험도를 분석 및 시각화하는 프로젝트입니다.
 
 ## 프로젝트 환경 및 버전
-- Python 3.11
-- Pandas 2.x
-- Scikit-learn 1.x
-- Matplotlib / Seaborn
-- Jupyter Notebook
+
+- Python 3.12.7
 - OS: Windows 10
+- Jupyter Notebook
+
+### 사용 라이브러리
+- Pandas 2.2.2
+- NumPy 1.26.4
+- Matplotlib 3.9.2 / Seaborn 0.13.2
+- GeoPandas 1.0.1
+- Shapely 2.1.1
+- Folium 0.19.4
+- Scikit-learn 1.5.1
 
 ## 데이터 설명
 
