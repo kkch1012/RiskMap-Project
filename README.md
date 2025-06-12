@@ -34,7 +34,7 @@
 - `Disaster_Accident.csv` : 재난사고 데이터
 - `fire_data.csv` : 화재사고 원본 데이터
 - `weather_accident.csv` : 기상상태별 교통데이터
-- `Traffic_accident_year_2005.csv` : 교통사고 현황 연도별 데이터 (2005~)
+- `Traffic_accident_year_2005.csv` : 교통사고 현황 연도별 데이터
 - `Traffic_accidents_vehicle.csv` : 차종별 교통사고 데이터
 - `Resident_population_preprocessing.csv` : 거주인구, 유동인구 병합 전처리 데이터
 
